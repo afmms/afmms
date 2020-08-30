@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.afmms.vercel.app/" alt="afmms Spotify Playing" width="350" />](https://open.spotify.com/user/1177898820)
+[![Spotify](https://novatorem.afmms.vercel.app/api/spotify)](https://open.spotify.com/user/1177898820)
 
 ### Connect with me:
 
