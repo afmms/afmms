@@ -1,7 +1,7 @@
 ### Hi there, I'm André 👋
 
-[![Instagram](https://img.shields.io/twitter/url?color=555&label=Follow%20%40afmms&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fafmms%2F)][instagram]
-[![LinkedIn](https://img.shields.io/twitter/url?color=0077B5&label=Connect%20with%20%40afmms&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fafmms%2F)][linkedin]
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&url=https%3A%2F%2Fwww.instagram.com%2Fafmms%2F)][instagram]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fafmms%2F)][linkedin]
 
 ## I'm a Software Engineer, Guitar Player and occasional Footballer!
 
