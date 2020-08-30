@@ -12,8 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
-[![Spotify](https://novatorem-js8624bwh.vercel.app/api/spotify)](https://open.spotify.com/user/1177898820)
+[![Spotify](https://novatorem-8s9d09k7s.vercel.app/api/spotify)](https://open.spotify.com/user/1177898820)
 
 ### Connect with me:
 
