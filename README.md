@@ -49,6 +49,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#9](https://github.com//etraveli/refactoring-java/pull/9) in [etraveli/refactoring-java](https://github.com//etraveli/refactoring-java)
+2. 🎉 Merged PR [#1](https://github.com//afmms/pythonRepo/pull/1) in [afmms/pythonRepo](https://github.com//afmms/pythonRepo)
+3. 💪 Opened PR [#1](https://github.com//afmms/pythonRepo/pull/1) in [afmms/pythonRepo](https://github.com//afmms/pythonRepo)
+<!--END_SECTION:activity-->
 
 </details>
 
