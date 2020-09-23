@@ -5,10 +5,10 @@
 
 ## I'm a Software Engineer, Guitar Player and occasional Footballer!
 
-- 🔭 Currently looking for a new job!
+- 🔭 Frontend Software Engineer @ Etraveli Group
 - 🌱 Trying to learn everything I can
-- 🥅 2020 Goals: Reach 2021 🤣
-- ⚡ Me facts: I love to travel and really like Alpacas
+- 🥅 2020 Goal: Reach 2021 🤣
+- ⚡ Me facts: I love to travel and really, really like Alpacas
 
 ### Spotify Playing 🎧
 
