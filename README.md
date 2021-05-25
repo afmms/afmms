@@ -7,8 +7,8 @@
 
 - 🔭 Frontend Software Engineer @ Etraveli Group
 - 🌱 Trying to learn everything I can
-- 🥅 2020 Goal: Reach 2021 🤣
-- ⚡ Me facts: I love to travel and really, really like Alpacas
+- 🥅 2021 Goal: Reach 2022 🤣
+- ⚡ Me facts: I love to travel and really, really like Alpacas. I just adopted one.
 
 ### Spotify Playing 🎧
 
